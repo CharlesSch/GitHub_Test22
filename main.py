@@ -1,3 +1,7 @@
 print('Hello world')
-n = 13 - 7
-print(n)
+
+def addition (a, b):
+  return a + b 
+
+print(addition(10, 20))
+
